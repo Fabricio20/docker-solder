@@ -22,6 +22,8 @@ docker run -d --name=solder \
     zlepper/solder
 ```
 
+Then open up SOLDER_HOST and log in with `admin@admin.com` and password `admin` (Solder defaults).
+
 # Configuration
 This container makes only the most minimal options available to ensure easier setup.
 
